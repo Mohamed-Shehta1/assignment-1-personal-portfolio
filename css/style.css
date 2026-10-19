@@ -1,0 +1,139 @@
+*{
+    box-sizing: border-box;
+}
+.head{
+    background-color:rgb(21, 87, 161);
+    padding: 25px;
+}
+.flaot-left{
+    float: left;
+}
+.text-center{
+    text-align: center;
+}
+.border-20{
+    border-radius: 20px;
+}
+.color-button{
+    background-color:rgb(26, 101, 186);
+    color: aliceblue;
+    width:auto;
+    padding: 9px;
+} 
+.head h1{
+    color: rgb(252, 251, 251);
+}
+.head h3{
+    color: rgb(160, 217, 242);
+}
+.width-70{
+    width: 60%;
+}
+.Margen-auto{
+        margin: auto;
+}
+
+.About{
+    background-color:beige;
+    padding: 25px;
+    margin-top: 30px;
+}
+.a1{
+    color:rgb(2, 69, 146);
+}
+#me{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+   
+}
+.clear{
+    clear: both;
+}
+.extra{
+    border-radius: 10px;
+}
+.Skills{
+    background-color: beige;
+    padding: 25px;
+    margin-top: 30px;
+}
+.width-22{
+    width: 22%;
+    padding-left: 12px;
+    margin-right: 22px;
+    border-radius: 10px;
+    
+}
+.backgrount{
+    background-color:white;
+   
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+#text-color{
+    color:rgb(0, 0, 146) ;
+}
+#black{
+    color:black;
+}
+.line-color{
+    color: rgba(49, 152, 230, 0.312);
+    margin-bottom: 30px;
+}
+.span-color{
+color:rgb(0, 0, 146) ;
+}
+.img1{
+  width: 10%;
+    height: 10%;
+    margin-right: 30px;  
+    background-color:rgb(234, 248, 248);
+    border-radius: 10px;
+    padding: 5px;
+}
+.Experience{
+    background-color:beige;
+    padding: 25px;
+    margin-top: 30px;
+}
+#line{
+    color: rgba(255, 255, 255, 0);
+}
+.E1{
+ background-color:white;
+ padding: 20px;
+ border-radius: 15px;
+ border-left: 4px solid rgb(21, 87, 161);
+}
+.E2{
+   background-color:white;
+ padding: 20px;
+ border-radius: 15px;
+ margin-top: 20px; 
+ border-left: 4px solid rgb(21, 87, 161);
+}
+.contact{
+   background-color:rgb(21, 87, 161);
+    padding: 25px;
+    margin-top: 30px;
+    color: white;
+}
+.Margen-right{
+    margin-right: 10px;
+}
+.end-line{
+    background-color: rgb(6, 6, 57);
+     padding: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+    text-align: center;
+}
+.span-color1{
+    color: rgb(2, 158, 255);
+}
